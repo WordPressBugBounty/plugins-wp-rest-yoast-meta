@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP REST Yoast Meta
  * Description:       Add yoast meta information to the WP REST API
- * Version:           2021.1.2
+ * Version:           2025.1.0
  * Author:            Acato
  * Author URI:        https://www.acato.nl
  * Text Domain:       wp-rest-yoast-meta
